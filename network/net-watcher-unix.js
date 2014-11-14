@@ -25,6 +25,6 @@ var fs = require('fs'),
 		throw Error('No target filename was specified.');
 	}
 
-	server.listen(8124, function() {
+	server.listen('/tmp/watcher.sock', function() {
 		console.log('Listening for subscribers...');
 	}); 
