@@ -9,7 +9,7 @@ var net = require('net'),
 		);
 
 		var timer = setTimeout(function(){
-			c.write('et.txt", "time-stamp" : 1358175758495}' + "\n");
+			c.write('et.txt", "timestamp" : 1416067454947}' + "\n");
 			c.end();
 		}, 1000);
 
