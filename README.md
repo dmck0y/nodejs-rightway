@@ -1,1 +1,1 @@
-Not much to see here. Just simple exercise while I learning node.
+Not much to see here. Just simple exercise while learn node.
